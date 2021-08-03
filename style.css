@@ -1,0 +1,11 @@
+body {
+    background: rgb(187, 187, 196);
+    font-size: 17px;
+}
+
+button {
+    color: red;
+    padding-right: 20px;
+    font-size: 17px;
+    margin: 15px 80px 34px 2px;
+}
